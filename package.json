@@ -1,0 +1,26 @@
+{
+  "name": "viti",
+  "version": "1.0.6",
+  "description": "An attempt to build a vpn",
+  "bin": {
+    "viti": "src/viti.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timqian/viti.git"
+  },
+  "author": "timqian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timqian/viti/issues"
+  },
+  "homepage": "https://github.com/timqian/viti#readme",
+  "dependencies": {
+    "commander": "^2.12.2",
+    "nodejs-aes256": "^1.0.1",
+    "simple-socks": "^0.2.7"
+  }
+}
