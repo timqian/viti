@@ -48,6 +48,7 @@ But the firewall may reading your request to that machine. So, you will need to 
 
 ## Good reads about GFW
 
+- [**original share post of shadowsocks**](https://www.v2ex.com/t/32777?p=2)
 - [GFW 斗争史](https://blog.yandere.moe/moe/gfw-vs-proxy/97.html)
 - [全面学习GFW](https://cokebar.info/archives/253)
 - [为什么不应该用 SSL 翻墙](https://gist.github.com/clowwindy/5947691)
